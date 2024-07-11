@@ -1,0 +1,21 @@
+@font-face {
+    font-family: matroska;
+    src: url(../fonts/matroska-rppg6.ttf);
+  }
+
+.navbar{
+    display: flex;
+    width: 100vw;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+ 
+    
+}
+
+h2{
+    font-family: matroska;
+    font-size: smaller;
+    margin: 5px  80px;
+}
